@@ -8,7 +8,7 @@ Sou desenvolvedor Full-Stack com paixão por tecnologia e busca constante de nov
 
 - **Lógica de Programação**
 - **Testes Automatizados**
-- **Tecnologias Front-End:** HTML5, CSS3, JavaScript, TypeScript, React, React Native, Angular
+- **Tecnologias Front-End:** HTML5, CSS3, JavaScript, TypeScript, React, React Native
 - **Tecnologias Back-End:** Java, Spring Boot, Node.js
 - **Ferramentas:** Selenium, Cypress, Playwright, JMeter, NPM
 - **Versionamento de código:** Git, GitHub
