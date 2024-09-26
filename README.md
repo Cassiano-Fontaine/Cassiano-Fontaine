@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou desenvolvedor Full-Stack com paixão por tecnologia e busca constante de novos conhecimentos.
+Sou desenvolvedor BackEnd/automação com paixão por tecnologia e busca constante de novos conhecimentos.
 
 ### Minhas habilidades:
 
